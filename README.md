@@ -17,7 +17,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on SYSCOMGROUP.
+- 👯 I’m looking to collaborate on sysmagnus.
 - 🌱 I’m currently learning C#, .NET, SQL, Django.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
@@ -38,7 +38,7 @@
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=dotnet,angular,react,laravel,django,visualstudio,idea,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,react,idea,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
