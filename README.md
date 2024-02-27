@@ -3,11 +3,13 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Henry</h1></summary>
   </ul>
 </div>
-<!--- snake -->
+<!--- snake example -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
+  ![huabin's snake gif](https://github.com/huabin/huabin/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of programming</h2></summary>
