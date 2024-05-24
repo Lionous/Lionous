@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
 - 👯 I’m looking to collaborate on sysmagnus.
-- 🌱 I’m currently learning C#, .NET, SQL, Django.
+- 🌱 I’m currently learning C#, .NET, SQL.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
 <!--Intro end-->
@@ -34,19 +34,19 @@
   <h3>Languages</h3>
     <p align="left">
       <a href="https://github.com/Lionnos">
-        <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,php,ts,javascript,html,css&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cs,java,py,php,ts&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,react,idea,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,idea,rider,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,nodejs,postman,bootstrap,figma,arduino,linux&perline=14" />
+          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,bootstrap,arduino,windows,linux&perline=14" />
         </a>
       </p>
 <br>
@@ -95,4 +95,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Lionnos&label=Lionnos&pretty=false" />
 </a>
 
-Last updated on: 2024-02-12
+Last updated on: 23-05-2024
