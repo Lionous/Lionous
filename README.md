@@ -19,7 +19,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on sysmagnus.
+- 👯 I’m looking to collaborate on onner.
 - 🌱 I’m currently learning C#, .NET, SQL.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
@@ -81,12 +81,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href = "mailto:Greengate@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  /></a>
-  <a href="https://www.instagram.com/lionooos/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://fb.com/Lionnosh" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  /></a>
-  <a href="https://www.tiktok.com/@lionnos" target="blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" /></a>
  </p>
 
 ---
@@ -95,4 +89,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Lionnos&label=Lionnos&pretty=false" />
 </a>
 
-Last updated on: 23-05-2024
+Last updated on: 12-08-2024
