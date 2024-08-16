@@ -46,7 +46,7 @@
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionnos">
-          <img src="https://skillicons.dev/icons?i=vscode,mysql,sqlite,git,postman,bootstrap,arduino,windows,linux&perline=14" />
+          <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,git,vscode,postman,windows,linux,debian,ubuntu&perline=14" />
         </a>
       </p>
 <br>
