@@ -19,7 +19,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on onner.
+- 👯 I’m looking to collaborate on onner, teampj.
 - 🌱 I’m currently learning C#, .NET, SQL.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
@@ -52,23 +52,27 @@
 <br>
 
 ## Activity on github
-<p align="center">
-  <a href="https://github.com/Helionous">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Helionous&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
+<div align="center">
+  <a href="https://github.com/Helionous"> 
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Helionous&theme=dark&hide_border=true&border_radius=15&mode=weekly&stroke=f53b3b)](https://git.io/streak-stats)
+   </a> 
+</div>
 
 ## My stats
 <p align="center">
   <a href="https://github.com/Helionous"> 
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Helionous&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Helionous&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&border_radius=15">
   </a> 
 </p>
 
  
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Helionous&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Helionous&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=10)
 
+</div>
 ## Connect with me
 <h5 align="center">Below are some links you can visit and follow me.</h5>
 
@@ -86,7 +90,7 @@
 ---
 
 <a href="https://github.com/Helionous">
-  <img src="https://visitcount.itsvg.in/api?id=Lionnos&label=Helionous&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Helionous&label=Helionous&pretty=true" />
 </a>
 
-Last updated on: 30-08-2024
+Last updated on: 31-08-2024
