@@ -5,8 +5,8 @@
 </div>
 <!--- snake example -->
 <div align="center">
-
-  ![huabin's snake gif](https://github.com/huabin/huabin/blob/output/github-contribution-grid-snake.svg)
+  
+  ![snake gif](https://github.com/Helionous/Helionous/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
