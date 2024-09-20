@@ -19,7 +19,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on onner, teampj.
+- 👯 I’m looking to collaborate on onner, teampj, Droppi.
 - 🌱 I’m currently learning C#, .NET, SQL.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
@@ -34,19 +34,19 @@
   <h3>Languages</h3>
     <p align="left">
       <a href="https://github.com/Helionous">
-        <img src="https://skillicons.dev/icons?i=cs,java,py,php,ts&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cs,java,py,ts,php&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Helionous">
-          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,idea,rider,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,rider,idea,clion,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Helionous">
-          <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,git,vscode,postman,windows,linux,debian,ubuntu&perline=14" />
+          <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,git,vscode,postman,windows,linux,arch,debian,ubuntu&perline=14" />
         </a>
       </p>
 <br>
@@ -93,4 +93,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Helionous&label=Helionous&pretty=true" />
 </a>
 
-Last updated on: 31-08-2024
+Last updated on: 20-09-2024
