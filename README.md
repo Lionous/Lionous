@@ -6,7 +6,7 @@
 <!--- snake example -->
 <div align="center">
   
-  ![snake gif](https://github.com/Helionous/Helionous/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
@@ -33,19 +33,19 @@
   </div>
   <h3>Languages</h3>
     <p align="left">
-      <a href="https://github.com/Helionous">
+      <a href="https://github.com/Lionous">
         <img src="https://skillicons.dev/icons?i=cs,java,py,ts,php&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
-        <a href="https://github.com/Helionous">
+        <a href="https://github.com/Lionous">
           <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,rider,idea,clion,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
-        <a href="https://github.com/Helionous">
+        <a href="https://github.com/Lionous">
           <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,git,vscode,postman,windows,linux,arch,debian,ubuntu&perline=14" />
         </a>
       </p>
@@ -53,16 +53,16 @@
 
 ## Activity on github
 <div align="center">
-  <a href="https://github.com/Helionous"> 
+  <a href="https://github.com/Lionous"> 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Helionous&theme=dark&hide_border=true&border_radius=15&mode=weekly&stroke=f53b3b)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lionous&theme=dark&hide_border=true&border_radius=15&mode=weekly&stroke=f53b3b)](https://git.io/streak-stats)
    </a> 
 </div>
 
 ## My stats
 <p align="center">
-  <a href="https://github.com/Helionous"> 
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Helionous&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&border_radius=15">
+  <a href="https://github.com/Lionous"> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Lionous&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&border_radius=15">
   </a> 
 </p>
 
@@ -70,18 +70,18 @@
 ## GitHub Trophies
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Helionous&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Lionous&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=10)
 
 </div>
 ## Connect with me
 <h5 align="center">Below are some links you can visit and follow me.</h5>
 
 <p align="center">
-   <a href="https://github.com/Helionous">
-     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Helionous?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Helionous?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Helionous?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-  <a href="https://linkedin.com/in/Helionous" target="blank">
+   <a href="https://github.com/Lionous">
+     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Lionous?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/Lionous?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lionous?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+  <a href="https://linkedin.com/in/Lionous" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href = "mailto:Greengate@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  /></a>
@@ -89,8 +89,8 @@
 
 ---
 
-<a href="https://github.com/Helionous">
-  <img src="https://visitcount.itsvg.in/api?id=Helionous&label=Helionous&pretty=true" />
+<a href="https://github.com/Lionous">
+  <img src="https://visitcount.itsvg.in/api?id=Lionous&label=Lionous&pretty=true" />
 </a>
 
-Last updated on: 20-09-2024
+Last updated on: 20-10-2024
