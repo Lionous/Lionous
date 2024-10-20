@@ -73,6 +73,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Lionous&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=10)
 
 </div>
+
 ## Connect with me
 <h5 align="center">Below are some links you can visit and follow me.</h5>
 
