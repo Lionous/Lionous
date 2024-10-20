@@ -60,11 +60,11 @@
 </div>
 
 ## My stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/Lionous"> 
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Lionous&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&border_radius=15">
   </a> 
-</p>
+</div>
 
  
 ## GitHub Trophies
@@ -76,7 +76,7 @@
 ## Connect with me
 <h5 align="center">Below are some links you can visit and follow me.</h5>
 
-<p align="center">
+<div align="center">
    <a href="https://github.com/Lionous">
      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Lionous?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/Lionous?tab=repositories&sort=stargazers">
@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href = "mailto:Greengate@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  /></a>
- </p>
+ </div>
 
 ---
 
