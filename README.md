@@ -34,19 +34,19 @@
   <h3>Languages</h3>
     <p align="left">
       <a href="https://github.com/Lionous">
-        <img src="https://skillicons.dev/icons?i=cs,java,py,ts,php&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cs,java,py,ts&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=dotnet,laravel,django,visualstudio,rider,idea,clion,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,rider,idea,clion,androidstudio&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,git,vscode,postman,windows,linux,arch,debian,ubuntu&perline=14" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite,docker,vscode,git,postman,latex,linux,arch,debian&perline=14" />
         </a>
       </p>
 <br>
@@ -94,4 +94,4 @@
   <img src="https://visitcount.itsvg.in/api?id=Lionous&label=Lionous&pretty=true" />
 </a>
 
-Last updated on: 20-10-2024
+Last updated on: 14-12-2024
