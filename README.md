@@ -6,7 +6,7 @@
 <!--- snake example -->
 <div align="center">
   
-  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -19,7 +19,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on onner, teampj, Droppi.
+- 👯 I’m looking to collaborate on Onner, Teampj, Dizzgo.
 - 🌱 I’m currently learning C#, .NET, SQL.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
@@ -90,8 +90,4 @@
 
 ---
 
-<a href="https://github.com/Lionous">
-  <img src="https://visitcount.itsvg.in/api?id=Lionous&label=Lionous&pretty=true" />
-</a>
-
-Last updated on: 14-12-2024
+Last updated on: 04-16-2025
