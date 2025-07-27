@@ -18,9 +18,8 @@
 
 ## What i'm doing
 <!--Intro start-->
-- 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on Onner, Teampj, Dizzgo.
-- 🌱 I’m currently learning C#, .NET, SQL.
+- 👨‍🎓 Graduate of the professional career in Computer and Systems Engineering.
+- 👯 I am a collaborator in micro-enterprises, currently in development such as Onner, Dizzgo, OGC.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
 <!--Intro end-->
@@ -34,19 +33,19 @@
   <h3>Languages</h3>
     <p align="left">
       <a href="https://github.com/Lionous">
-        <img src="https://skillicons.dev/icons?i=cs,java,py,ts&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cs,ts,java,py,&perline=14" />
       </a>
     </p>
   <h3>Frameworks, IDEs and Libraries</h3>
       <p align="left">
         <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,rider,idea,clion,androidstudio&perline=14" />
+          <img src="https://skillicons.dev/icons?i=rider,webstorm,dotnet,visualstudio,nestjs,arduino&perline=14" />
         </a>
       </p>
   <h3>Others</h3>
       <p align="left">
         <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite,docker,vscode,git,postman,latex,linux,arch,debian&perline=14" />
+          <img src="https://skillicons.dev/icons?i=linux,arch,mysql,postgres,mongo,sqlite,docker,vscode,git,postman,github,gitlab,latex&perline=14" />
         </a>
       </p>
 <br>
@@ -90,4 +89,4 @@
 
 ---
 
-Last updated on: 30-04-2025
+Last updated on: 26-07-2025
