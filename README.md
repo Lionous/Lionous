@@ -6,7 +6,7 @@
 <!--- snake example -->
 <div align="center">
   
-  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -89,4 +89,4 @@
 
 ---
 
-Last updated on: 26-07-2025
+Last updated on: 16-01-2026
