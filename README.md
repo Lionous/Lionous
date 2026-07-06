@@ -6,7 +6,7 @@
 <!--- snake example -->
 <div align="center">
   
-  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Lionous/Lionous/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
@@ -19,7 +19,7 @@
 ## What i'm doing
 <!--Intro start-->
 - 👨‍🎓 Graduate of the professional career in Computer and Systems Engineering.
-- 👯 I am a collaborator in micro-enterprises, currently in development such as Onner, Dizzgo, OGC.
+- 👯 I am a collaborator in micro-enterprises.
 - 📫 How to reach me: Ghreengate@gmail.com
 - ​😎 I’m passionate about specializing as a back-end developer.
 <!--Intro end-->
