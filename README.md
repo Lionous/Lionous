@@ -49,19 +49,19 @@
     <p align="center">
     Collaborators ...
         <a href="https://github.com/Lionous" title="Henry Leon">
-        <img src="https://github.com/Lionous.png" width="28" height="28" alt="@Lionous" />
+        <img src="https://github.com/Lionous.png" width="24" height="24" alt="@Lionous" />
         </a>
         <a href="https://github.com/k4lFer" title="Kaled Ponce">
-        <img src="https://github.com/k4lFer.png" width="28" height="28" alt="@k4lFer" />
+        <img src="https://github.com/k4lFer.png" width="24" height="24" alt="@k4lFer" />
         </a>
         <a href="https://github.com/keytelpumaylle" title="Keytel Pumaylle">
-        <img src="https://github.com/keytelpumaylle.png" width="28" height="28" alt="@keytelpumaylle" />
+        <img src="https://github.com/keytelpumaylle.png" width="24" height="24" alt="@keytelpumaylle" />
         </a>
         <a href="https://github.com/AronOmarPizarroCahuana" title="Aron Pizarro">
-        <img src="https://github.com/AronOmarPizarroCahuana.png" width="28" height="28" alt="@AronOmarPizarroCahuana" />
+        <img src="https://github.com/AronOmarPizarroCahuana.png" width="24" height="24" alt="@AronOmarPizarroCahuana" />
         </a>
         <a href="https://github.com/AlexMachaca" title="Alex Machaca">
-        <img src="https://github.com/AlexMachaca.png" width="28" height="28" alt="@AlexMachaca" />
+        <img src="https://github.com/AlexMachaca.png" width="24" height="24" alt="@AlexMachaca" />
         </a> 
     </p>
   </td>
