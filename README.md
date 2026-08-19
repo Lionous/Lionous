@@ -22,7 +22,6 @@
 - ​😎 I’m passionate about specializing as a back-end developer.
 
 ## Some projects👨🏻‍💻
-
 <table align="left" align="center">
 <tr border="none">
   <td width="32%" align="center">
@@ -34,10 +33,10 @@
     <p align="center">
     Collaborators ...
       <a href="https://github.com/Lionous" title="Henry Leon">
-        <img src="https://github.com/Lionous.png" width="32" height="32" alt="@Alex-lancho" />
+        <img src="https://github.com/Lionous.png" width="28" height="28" alt="@Alex-lancho" />
       </a>
       <a href="https://github.com/Alex-lancho" title="Alex Lancho">
-        <img src="https://github.com/Alex-lancho.png" width="32" height="32" alt="@Alex-lancho" />
+        <img src="https://github.com/Alex-lancho.png" width="28" height="28" alt="@Alex-lancho" />
       </a>
     </p>
   </td>
@@ -50,19 +49,19 @@
     <p align="center">
     Collaborators ...
         <a href="https://github.com/Lionous" title="Henry Leon">
-        <img src="https://github.com/Lionous.png" width="32" height="32" alt="@Lionous" />
+        <img src="https://github.com/Lionous.png" width="28" height="28" alt="@Lionous" />
         </a>
         <a href="https://github.com/k4lFer" title="Kaled Ponce">
-        <img src="https://github.com/k4lFer.png" width="32" height="32" alt="@k4lFer" />
+        <img src="https://github.com/k4lFer.png" width="28" height="28" alt="@k4lFer" />
         </a>
         <a href="https://github.com/keytelpumaylle" title="Keytel Pumaylle">
-        <img src="https://github.com/keytelpumaylle.png" width="32" height="32" alt="@keytelpumaylle" />
+        <img src="https://github.com/keytelpumaylle.png" width="28" height="28" alt="@keytelpumaylle" />
         </a>
         <a href="https://github.com/AronOmarPizarroCahuana" title="Aron Pizarro">
-        <img src="https://github.com/AronOmarPizarroCahuana.png" width="32" height="32" alt="@AronOmarPizarroCahuana" />
+        <img src="https://github.com/AronOmarPizarroCahuana.png" width="28" height="28" alt="@AronOmarPizarroCahuana" />
         </a>
         <a href="https://github.com/AlexMachaca" title="Alex Machaca">
-        <img src="https://github.com/AlexMachaca.png" width="32" height="32" alt="@AlexMachaca" />
+        <img src="https://github.com/AlexMachaca.png" width="28" height="28" alt="@AlexMachaca" />
         </a> 
     </p>
   </td>
@@ -75,7 +74,7 @@
     <p align="center">
     Collaborators ...
         <a href="https://github.com/Lionous" title="Henry Leon">
-        <img src="https://github.com/Lionous.png" width="32" height="32" alt="@Lionous" />
+        <img src="https://github.com/Lionous.png" width="28" height="28" alt="@Lionous" />
         </a>
     </p>
   </td>
@@ -120,14 +119,12 @@
 ## My stats
 <div align="center">
   <a href="https://github.com/Lionous"> 
-    
+
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lionous&theme=holi)  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lionous&theme=holi) 
 </div>
 
-
 ## Connect with me
 <h5 align="center">Below are some links you can visit and follow me.</h5>
-
 <div align="center">
    <a href="https://github.com/Lionous">
      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Lionous?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -140,5 +137,4 @@
  </div>
 
 ---
-
 Last updated on: 19-08-2026
